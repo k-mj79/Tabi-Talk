@@ -1,0 +1,23 @@
+langchain
+langchain_community
+langchain-openai
+streamlit
+faiss-cpu
+python-dotenv
+tiktoken
+ipykernel
+pypdf
+fastmcp
+mcp
+notion-client
+langchain_mcp_adapters
+
+
+
+
+
+
+
+
+
+코드 깃허브 주소 : https://github.com/rlaalstn1504/langchain-web-chatbot-edu-2026
